@@ -16,7 +16,7 @@ You can request your **API Key** to your interviewer.
 
 ## Design
 
-**Important:** You can find these details in this [board](https://excalidraw.com/#json=q6hL5V1IgSJKUYxV_UGd_,qc73zJhmowmOYNvXGtVAkA)! :)
+**Important:** You can find these details in this [board](https://excalidraw.com/#json=Ly7jehWibYkWoJI-pI5ns,vTJ6IloKrwdLNjuxbWf1mw)! :)
 
 ## Points of value
 
